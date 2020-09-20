@@ -25,6 +25,8 @@ Uma vez criados o db e a collection, é necessário importar o arquivo JSON "./c
 de dados para uso e teste. Utilizei o NoSQLBoost For MongoDB para esse processo, porém pode ser utilizado qualquer ferramenta 
 que permita o import dos dados.
 
+Para compilar a API é necessário utilizat o app 'tsc'.
+
 Execução
 --------
 
