@@ -16,6 +16,7 @@ Instalação:
 Demais dependências são resolvidas com o comando "npm install" na pasta raiz da api,
 pois módulos adicionais e versões estão descritas nos arquivos package*.json
 
+O MongoDB deve estar rodando em localhost porta default (27017)
 No MongoDB é necessário a criação de um db chamado "marvel-universe" e uma collection chamada "characters".
 
 **** Obs.: o mongooseSchema utilizado está com a opção AutoCreate: true, portanto ao executar a API pela primeira vez, tanto
